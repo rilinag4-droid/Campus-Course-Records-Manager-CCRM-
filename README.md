@@ -155,8 +155,6 @@ java -version
 javac -version
 ```
 
-**Screenshot: Java Installation Verification**
-![Java Version Check](<![alt text](image.png)>)
 
 ## Eclipse IDE Setup
 
@@ -173,8 +171,6 @@ javac -version
 3. Use default JRE (should match your installed JDK)
 4. Create `src` folder structure with packages
 
-**Screenshot: Eclipse Project Setup**
-![alt text](image-1.png)
 
 ### Run Configuration
 
@@ -182,8 +178,6 @@ javac -version
 2. Configure run arguments if needed
 3. Set up assertions: **Run Configurations** → **Arguments** → **VM arguments**: `-ea`
 
-**Screenshot: Eclipse Run Configuration**
-(![alt text](image.png))
 
 ## Technical Implementation Mapping
 
