@@ -385,9 +385,9 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ---
 
-**Author**: Priyanshu vashisth
-**Reg. No.**: 24BCE10360
+**Author**: Rili Nag
+**Reg. No.**: 24BCE10484
 **Course**: Programming in Java  
 **Institution**: Vellore Institute of Technology, Bhopal
-**Date**: 05-09-2025
-**Version**: 1.0
+**Date**: 25-09-2025
+
